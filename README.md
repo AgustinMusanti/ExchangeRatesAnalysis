@@ -1,6 +1,6 @@
-# Análisis de Tipos de Cambio en Power BI
+# Análisis de Tipos de Cambio del Dólar en Power BI
 
-Este proyecto está diseñado para proporcionar un análisis detallado de los tipos de cambio entre diferentes monedas utilizando Power BI. La herramienta permite visualizar de manera simple y detallada las fluctuaciones de los tipos de cambio con los datos más recientes, facilitando la comprensión de las tendencias del mercado de divisas.
+Este proyecto está diseñado para proporcionar un análisis detallado de los diferentes tipos de cambio del dólar frente al peso argentino utilizando Power BI. La herramienta permite visualizar de manera simple y detallada las fluctuaciones de los tipos de cambio del dólar con los datos más recientes, facilitando la comprensión de las tendencias del mercado de divisas.
 
 ## Utilidad del Proyecto
 
