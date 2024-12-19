@@ -2,9 +2,7 @@
 
 Este proyecto está diseñado para proporcionar un análisis detallado de los tipos de cambio entre diferentes monedas utilizando Power BI. La herramienta permite visualizar de manera simple y detallada las fluctuaciones de los tipos de cambio con los datos más recientes, facilitando la comprensión de las tendencias del mercado de divisas.
 
-## Descripción del Proyecto
-
-En este análisis, se integran datos históricos y en tiempo real de varios tipos de cambio, lo que permite a los usuarios:
+## Utilidad del Proyecto
 
 - Observar el precio de los diferentes tipos de cambios al instante.
 - Comparar el comportamiento de las divisas a través de KPIs.
